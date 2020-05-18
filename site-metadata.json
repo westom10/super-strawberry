@@ -14,15 +14,15 @@
     ]
   },
   "footer": {
-    "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_title": "",
+    "subscribe_content": "",
     "has_subscribe": true,
     "social_title": "Community",
     "social_links": [],
     "tagline": "",
     "logo_img": "",
     "has_social": false,
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "",
     "links": [],
     "nav_title": "",
     "nav_links": [
