@@ -1,10 +1,10 @@
 {
-  "title": "Stackbit Azimuth Theme",
+  "title": "| Office",
   "palette": "blue",
   "header": {
     "title": "Office",
     "logo_img": "/images/micro.png",
-    "has_nav": true,
+    "has_nav": false,
     "nav_links": [
       {
         "label": "Sign Up",
