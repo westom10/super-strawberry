@@ -9,7 +9,7 @@
       {
         "label": "Sign Up",
         "url": "/signup",
-        "primary": true
+        "primary": false
       }
     ]
   },
@@ -19,18 +19,18 @@
     "has_subscribe": true,
     "social_title": "Community",
     "social_links": [],
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "",
     "logo_img": "",
     "has_social": false,
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [],
-    "nav_title": "Company",
+    "nav_title": "",
     "nav_links": [
       {
         "label": "Contact",
         "url": "/contact"
       }
     ],
-    "has_nav": true
+    "has_nav": false
   }
 }
