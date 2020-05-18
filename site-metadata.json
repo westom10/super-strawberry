@@ -7,22 +7,6 @@
     "has_nav": true,
     "nav_links": [
       {
-        "label": "Home",
-        "url": "/"
-      },
-      {
-        "label": "Features",
-        "url": "/features"
-      },
-      {
-        "label": "Pricing",
-        "url": "/pricing"
-      },
-      {
-        "label": "Style Guide",
-        "url": "/style-guide"
-      },
-      {
         "label": "Sign Up",
         "url": "/signup",
         "primary": true
@@ -36,8 +20,8 @@
     "social_title": "Community",
     "social_links": [],
     "tagline": "SaaS theme by Stackbit",
-    "logo_img": "images/logo_alt.png",
-    "has_social": true,
+    "logo_img": "",
+    "has_social": false,
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [],
     "nav_title": "Company",
